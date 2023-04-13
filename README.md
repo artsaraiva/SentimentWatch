@@ -4,7 +4,7 @@ SentimentWatch is a web application built using Python and Flask for the server-
 
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/app_image_1.png">
+    <img src="images/app_image_3.png">
   </a>
 </div>
 
