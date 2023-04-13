@@ -29,7 +29,6 @@ def scrape_cnn_articles():
                     if not check_if_article_exists(entry.link):
                         article_url = entry.link
                         article_published_date = entry.published
-                        print(">>>" + article_url)
                         media_content = entry.get("media_content", [])
                         if media_content:
                             article_thumbnail_url = media_content[0]["url"]
